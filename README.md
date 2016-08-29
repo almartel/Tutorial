@@ -2,6 +2,7 @@
 # Python notebooks for medical image analysis
 
 These notebooks are designed to provide a quick start guide to manipulating medical images using SimpleITK and Python
+
 -Using SimpleITK 
   -Shows how to open an image volume using SimpleITK
   -How to display slices and interpolate data
